@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 ##
 
-<div>
+<div align="center">
 <img height= "50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </div?        

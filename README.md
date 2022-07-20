@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 </div  
   
   <div>
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/8a2641fec07b50a292a5e65a8218de3c.gif" width="300" height="169" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/8a2641fec07b50a292a5e65a8218de3c.gif" width="200" height="100" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">
   </div
